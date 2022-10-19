@@ -1,6 +1,6 @@
 ## Olá, sou o Giuseppe!:call_me_hand:
 
-- Engenheiro Civil e estudante na área da tecnologia
+- Engenheiro Civil e estudante de tecnologia
 - Desenvolvedor Android em constante evolução
 - Cristão e Corinthiano
 
