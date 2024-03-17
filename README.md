@@ -1,6 +1,6 @@
 ### Prazer, Giuseppe!
 
-- Desenvolvedor Android em constante evolução
+- Desenvolvedor Mobile em constante evolução
 - Estudante na Faculdade de Tecnologia de São Paulo / FATEC - SP
 - Análise e Desenvolvimento de Sistemas
 
