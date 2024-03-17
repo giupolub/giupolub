@@ -1,7 +1,8 @@
 ### Prazer, Giuseppe!
 
 - Desenvolvedor Android em constante evolução
-- Estudante de tecnologia da FATEC São Paulo
+- Estudante na Faculdade de Tecnologia de São Paulo / FATEC - SP
+- Análise e Desenvolvimento de Sistemas
 
 Desenvolvedor | Mobile | Android | Kotlin
 
