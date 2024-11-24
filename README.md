@@ -1,11 +1,7 @@
-### Prazer, Giuseppe!
+#### Prazer, Giuseppe.
 
-- Desenvolvedor Mobile em constante evolução
-- Estudante na Faculdade de Tecnologia de São Paulo / FATEC - SP
-- Análise e Desenvolvimento de Sistemas
+- Sou um Desenvolvedor Mobile em constante evolução!
 
-Desenvolvedor | Mobile | Android | Kotlin
-
-![Android_bagde](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin_bagde](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Javascript_bagde](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Typecript_bagde](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![ReactNative_bagde](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### *"Tudo é possível àquele que crê" (Marcos 9:23)*
